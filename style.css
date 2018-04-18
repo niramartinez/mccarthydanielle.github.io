@@ -146,7 +146,7 @@ h1 h2 h3 h4 h5 h6 {
         line-height: 0.9em;
         text-transform: none;
         background-color: #ffffff;
-        background-image: url(Images/philipp-henzler-411-unsplash.jpg);
+        background-image: url(images/philipp-henzler-411-unsplash.jpg);
 }
 
 /*homepage desc css*/
@@ -415,7 +415,7 @@ input:focus {
         line-height: 0.9em;
         text-transform: none;
         background-color: #ffffff;
-        background-image:url(Images/tom-ritson-388066-unsplash.jpg);
+        background-image:url(images/tom-ritson-388066-unsplash.jpg);
 }
 
 /*location styling*/
